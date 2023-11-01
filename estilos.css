@@ -1,6 +1,17 @@
+@font-face {
+    font-family: "FuentePrincipal";
+    src: url("/fonts/Raleway-Bold.ttf");
+}
 
+section *{
+
+    font-family: "FuentePrincipal";
+
+
+
+}
 body{
-font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-family: "FuentePrincipal";
 margin: 0%;
 font-size: 10pt;
 background-color: #222222;
@@ -35,7 +46,7 @@ header{
     padding: 10px;
     margin: auto;
     max-width: 1500px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: "FuentePrincipal";
 }
 
 header h2{
